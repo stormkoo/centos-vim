@@ -1,4 +1,4 @@
-FROM centos:1.0.1
+FROM centos
 
 MAINTAINER lanyu<stormkoo@hotmail.com>
 
